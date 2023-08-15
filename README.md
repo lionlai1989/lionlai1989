@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-If I only read the books that everyone else is reading, I can only think what everyone else is thinking. ― Haruki Murakami
+**If you only read the books that everyone else is reading, you can only think what everyone else is thinking.** ― Haruki Murakami
 
 I’ve always been fascinated by exploring the principles that underlie things, and I find it incredibly fulfilling to appreciate how simple components can converge to form complex systems. The last three roles I held have consistently demonstrated my innate inclination to construct challenging systems by leveraging humble, yet essential, elements:
 
