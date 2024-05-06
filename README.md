@@ -32,7 +32,6 @@ My fascination lies at the intersection of mathematics, engineering, and program
 ### 📫 How to reach me
 
 My blog: [Here](https://lionlai1989.github.io/)  
-My LinkedIn: [Here](https://www.linkedin.com/in/lionlai1989/)
 
 ### ⚡ Fun fact
 
