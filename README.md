@@ -12,10 +12,6 @@ I’ve always been fascinated by exploring the principles that underlie things, 
 ### 👨‍💻 My Interests
 My fascination lies at the intersection of mathematics, engineering, and programming.
 
-### 📫 How to reach me
-
-My blog: [Here](https://lionlai1989.github.io/)  
-
 ### ⚡ Fun fact
 
 After taking multiple 16-personality tests at different stages of my life, the result has consistently categorized me as an Assertive Architect (INTJ-A). Admittedly, while I acknowledge that this personality type may not always be regarded as a compliment in romantic relationships of mine, I believe that this unfortunate blessing has guided me throughout my learning journey, during which I have always found joy in dedicating my spare time to exploring diverse topics, including machine learning and computer vision.
